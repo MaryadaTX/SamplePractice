@@ -1,0 +1,16 @@
+﻿{
+  "Name": "orangehrm",
+  "Type": "Screen",
+  "Id": "jcZwzFNTxUGqYJ_SRgAYBw",
+  "Reference": "_78DtvGxNUSYOlC5SQsPAA/jcZwzFNTxUGqYJ_SRgAYBw",
+  "ParentRef": "_78DtvGxNUSYOlC5SQsPAA/_u6p9Ky43EWxkwqAiipC7g",
+  "Created": "2025-07-18T05:30:32.295923Z",
+  "Updated": "2025-07-18T05:30:58.6036018Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
